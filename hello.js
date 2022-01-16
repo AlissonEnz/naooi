@@ -1,5 +1,5 @@
 // the sequence
-var nohelloCode = ['h', 'e', 'l', 'l', 'o'];
+var nohelloCode = ['o', 'i'];
 
 // a variable to remember the 'position' the user has reached so far.
 var nohelloCodePosition = 0;
